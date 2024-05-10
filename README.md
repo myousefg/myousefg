@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @myousefg
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate on University
-- 📫 How to reach me @mmyousefgg on instagram, myousefg@gmail.com on gmail
+- 🌱 I’m currently learning C# and Java languages
+- 💞️ I’m student at Telkom University Bandung
+- 📫 You can reach me with @mmyousefgg on instagram or myousefg@gmail.com on gmail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm good at things i find interesting!
 
