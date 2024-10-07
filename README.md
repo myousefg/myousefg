@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myousefg
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C# and Java languages
+- 🌱 I’m currently learning Go, C++, C# languages. also HTML and CSS!
 - 💞️ I’m student at Telkom University Bandung
 - 📫 You can reach me with @mmyousefgg on instagram or myousefg@gmail.com on gmail
 - 😄 Pronouns: He/Him
